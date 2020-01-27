@@ -1,0 +1,6 @@
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\bin\Debug\ConsoleGame.exe.config
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\bin\Debug\ConsoleGame.exe
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\bin\Debug\ConsoleGame.pdb
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\obj\Debug\ConsoleGame.exe
+C:\Users\vaitk\Documents\cSharpCourseGamePractice\obj\Debug\ConsoleGame.pdb
